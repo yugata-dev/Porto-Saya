@@ -17,7 +17,6 @@ Ini adalah repositori untuk website portofolio pribadi saya. Website ini dibangu
 ## 🛠 Tech Stack
 Berikut adalah teknologi yang saya gunakan dalam membangun proyek ini:
 - **Language:** HTML, CSS, JavaScript
-- **Framework/Library:** [Sebutkan jika ada, misal: Bootstrap/Tailwind]
 - **Tools:** VS Code, Git, GitHub
 
 ## 📂 Fitur Utama

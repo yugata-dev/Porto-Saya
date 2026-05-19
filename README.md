@@ -1,60 +1,30 @@
-Bagus! Kamu sudah berhasil membuat repositorinya. Sekarang, mari kita buat
-README.md itu menjadi menarik agar orang yang membukanya langsung paham apa yang
-kamu kerjakan.
+# 🚀 My Portfolio Website
 
-Silakan copy-paste kode di bawah ini ke dalam kolom edit README.md yang sedang
-terbuka di browser kamu:
-
-<h1 align="center">Halo, saya Yugata! 👋</h1>
-
-<h3 align="center">Seorang Web Developer yang sedang berkembang.</h3>
-
----
-
-## 🚀 Tentang Proyek Ini
-Ini adalah repositori untuk website portofolio pribadi saya. Website ini dibangun untuk mendokumentasikan perjalanan belajar dan proyek-proyek yang telah saya kerjakan.
+Halo! Saya **Yugata Halimawan**, seorang pelajar Teknik Otomotif yang memiliki *passion* besar dalam dunia web development. Repositori ini berisi website portofolio pribadi saya yang dibangun menggunakan **Raw HTML, CSS, dan Vanilla JavaScript**.
 
 ## 🛠 Tech Stack
-Berikut adalah teknologi yang saya gunakan dalam membangun proyek ini:
-- **Language:** HTML, CSS, JavaScript
-- **Tools:** VS Code, Git, GitHub
+Saya memilih untuk melakukan *coding* dari nol (*No Vibe Coding*) untuk memahami fundamental web dengan maksimal:
+- **Language:** HTML5, CSS3, Vanilla JavaScript
+- **Icons:** Line Awesome
+- **Design Concept:** Urban Minimalist (Dark Theme)
 
-## 📂 Fitur Utama
-- [ ] Tampilan yang responsif.
-- [ ] Detail proyek yang informatif.
-- [ ] Akses cepat ke media sosial/kontak.
+## 📌 Fitur Website
+- **Responsive Navigation:** Sidebar navigasi yang ramah perangkat seluler (hamburger menu).
+- **Smooth Scrolling:** Navigasi antar bagian yang mulus.
+- **Section Profil:** Menampilkan detail personal dan keahlian secara terstruktur.
+- **Project Showcase:** Ruang untuk menampilkan proyek-proyek yang sedang saya kembangkan.
 
-## 🌐 Live Demo
-Kamu bisa melihat hasil jadinya di sini:
-👉 **[Klik di sini untuk melihat website](https://yugata-dev.github.io/Porto-Saya/)**
+## 🌐 Live Preview
+Kamu bisa melihat hasil *live* website saya di sini:
+👉 **[Klik untuk melihat Portofolio](https://yugata-dev.github.io/Porto-Saya/)**
+
+## 💻 Tech Stacks & Tools
+- **Frontend:** HTML, CSS, JavaScript (Vanilla)
+- **Development Tools:** VS Code, Git, GitHub
+- **Platform:** GitHub Pages (Deployment)
 
 ## 📬 Hubungi Saya
-Jika ingin berdiskusi atau berkolaborasi, jangan ragu untuk menghubungi saya:
-- Email: [Masukkan Email Kamu]
-- LinkedIn: [Masukkan Link Profil LinkedIn Kamu]
+- **LinkedIn:** [Yugata Halimawan](https://www.linkedin.com/in/yugata-halimawan-82a612400/)
+- **GitHub:** [@yugata-dev](https://github.com/yugata-dev)
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yugata-dev&show_icons=true&theme=radical" alt="Statistik GitHub Yugata" />
-</p>
-
-Beberapa tips tambahan setelah kamu Commit Changes:
-
-1.  Ganti bagian yang di dalam kurung siku [...]: Pastikan kamu mengisi email,
-    link LinkedIn, dan tech stack yang sebenarnya kamu gunakan.
-2.  Statistik Otomatis: Di bagian paling bawah kode di atas, saya sudah
-    menambahkan kode untuk menampilkan statistik GitHub kamu secara otomatis.
-    Jika nanti statistik tersebut tidak muncul, pastikan kamu sudah membuat
-    setidaknya satu commit (tadi kamu sudah edit README, jadi harusnya sudah
-    muncul).
-3.  Tampilan: Setelah di-save, lihat hasilnya. Jika terlihat berantakan, cek
-    apakah formatnya masih menggunakan Markdown (seharusnya otomatis).
-
-Langkah Terakhir: Setelah kamu klik "Commit changes" di bawah, coba buka link
-repo kamu kembali https://github.com/yugata-dev/Porto-Saya. Apakah tampilannya
-sudah berubah?
-
-Kalau sudah berhasil, langkah selanjutnya adalah membuat Profile README (seperti
-yang kita bahas sebelumnya) agar profil utama kamu (github.com/yugata-dev) juga
-terlihat keren! Apakah mau lanjut ke sana?
-
